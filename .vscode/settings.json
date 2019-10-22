@@ -24,9 +24,9 @@
       "strings": false
     },
     "editor.parameterHints.enabled": true,
-    "editor.wordBasedSuggestions": false,
-    "editor.selectionHighlight": false,
-    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": true,
+    "editor.selectionHighlight": true,
+    "editor.suggestOnTriggerCharacters": true,
     "editor.folding": false,
     "editor.hover.enabled": true,
     "editor.tabCompletion": "onlySnippets",
